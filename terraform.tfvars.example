@@ -1,0 +1,5 @@
+rancher_server_hostname="demo.rancher.com"
+rancher_api_token="token-cvb5r:kxpfj8w25nhrlvh7dhxn"
+user_cluster_name="test123"
+project_name="tf-test"
+project_member_group_uri="github_org://9343031"
